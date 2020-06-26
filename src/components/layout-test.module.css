@@ -1,0 +1,36 @@
+.layout {
+  color: "teal";
+  margin: "3rem auto";
+  max-width: 750;
+  padding: 0 1rem;
+}
+
+.listLink {
+  display: inline-block;
+  margin-right: 1rem;
+}
+
+#header {
+  margin-bottom: 1.5rem;
+}
+
+#headerLink {
+  text-shadow: none !important;
+}
+
+#header #headerLink {
+  background-image: none !important;
+}
+#header #title {
+  display: inline;
+}
+
+#nav {
+  list-style: none !important;
+  float: right !important;
+}
+
+#nav {
+  list-style: none;
+  float: `right`;
+}

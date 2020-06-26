@@ -1,3 +1,7 @@
 html {
   background-color: lavender;
 }
+/*All anchor elements*/
+a {
+  text-shadow: none !important;
+}
